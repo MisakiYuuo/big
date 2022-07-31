@@ -61,7 +61,7 @@ $('#form_login').submit(function(e){
                console.log(res.token);
             //    token存储到localstorage里
             localStorage.setItem('token',res.token)
-            //    location.href = '/index/index.html'
+               location.href = '/index/index.html'
               }); 
 
         }

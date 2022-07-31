@@ -1,0 +1,22 @@
+.layui-footer {
+  text-align: center;
+  font-size: 16px;
+  color: orangered;
+}
+.iconfont {
+  margin-right: 10px;
+}
+.layui-icon {
+  margin: 0 5px;
+}
+iframe {
+  width: 100%;
+  height: 100%;
+}
+.layui-side-scroll .userInfo {
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  user-select: none;
+  border-bottom: 2px solid #383333;
+}
