@@ -1,0 +1,11 @@
+body {
+  padding: 30px;
+}
+.layui-card-header {
+  display: flex;
+  justify-content: space-between;
+}
+.layui-input {
+  width: 300px;
+  border: 1px solid greenyellow;
+}
